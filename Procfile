@@ -1,1 +1,1 @@
-web: gunicorn yakunv5:server
+web: gunicorn yakunv6:server
